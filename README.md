@@ -55,11 +55,6 @@ A modern, responsive product landing page for Capes India's MagSafe Wallet Pro w
 
 1. Clone this repository
 2. Open `index.html` in your browser
-3. All assets are included in the repository structure
-
-## Video Demonstration
-
-[Link to video demonstration would be placed here]
 
 ## Accessibility
 
